@@ -1,7 +1,7 @@
 # p-challenge
 Run with `yarn dev`
 
-Test with `yarn test`
+Test with `yarn test` (Only appHandler is fully tested at this point)
 
 Configs for providers are in `src/config/providers`
 
