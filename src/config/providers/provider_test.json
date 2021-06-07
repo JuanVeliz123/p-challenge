@@ -1,0 +1,5 @@
+{
+  "providerName": "provider_test",
+  "containsColumnNames": true,
+  "columns": ["uuid","vin","model","make","year"]
+}
